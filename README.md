@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/a1bab6f8-3496-4b47-9158-0ce9ebaacd91)
+
+
 # Sample ASP.NET Core application for Azure Pipelines docs
 
 For information on how to set up a pipeline for this repository, see [Create your first pipeline](https://docs.microsoft.com/azure/devops/pipelines/get-started-yaml?view=azure-devops).
